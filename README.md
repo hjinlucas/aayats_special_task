@@ -8,7 +8,7 @@ https://www.figma.com/file/2K1uEoKNtjg26oTDIssGzs/template?type=design&node-id=0
 
 1. Backend: run npm i to install, npm start to start server
 
-2. Run flutter doctor to check env, run flutter run to start the app (if there's any problem with setting up, you can create a new flutter app, copy & paste code to save time)
+2. Run flutter doctor to check env, run flutter run to start the app (if there's any problem with setting up, you can create a new flutter app, copy & paste code to save time <recommend>)
 
 3. Riverpod as state management, notifiers located in controller folder
 
